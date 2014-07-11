@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NumberBonds</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="number_bonds">Number Bonds</string>
+    <string name="learning">Learning</string>
+    <string name="excercises">Excercises</string>
+    <string name="title_activity_one">One</string>
+    <string name="zero">Zero</string>
+    <string name="learn">learn</string>
+    <string name="numberline">numberline</string>
+    <string name="practice">practice</string>
+    <string name="title_activity_two">Two</string>
+    <string name="title_activity_three">Three</string>
+    <string name="title_activity_four">Four</string>
+    <string name="title_activity_five">Five</string>
+    <string name="title_activity_six">Six</string>
+    <string name="title_activity_seven">Seven</string>
+    <string name="title_activity_eight">Eight</string>
+    <string name="title_activity_nine">Nine</string>
+    <string name="title_activity_ten">Ten</string>
+    <string name="title_activity_p1">P1</string>
+    <string name="title_activity_p2">P2</string>
+    <string name="title_activity_p3">P3</string>
+    <string name="title_activity_p4">P4</string>
+    <string name="title_activity_p5">P5</string>
+    <string name="title_activity_p6">P6</string>
+    <string name="title_activity_p7">P7</string>
+    <string name="title_activity_p8">P8</string>
+    <string name="title_activity_p9">P9</string>
+    <string name="title_activity_p10">P10</string>
+    <string name="title_activity_nl1">Numberline</string>
+    <string name="title_activity_levels_display">LevelsDisplay</string>
+    <string name="title_activity_count_level2">CountLevel2</string>
+    <string name="title_activity_learn_level3">LearnLevel3</string>
+    <string name="title_activity_practice_levels">PracticeLevels</string>
+    <string name="title_activity_numberline_levels">NumberlineLevels</string>
+
+</resources>
